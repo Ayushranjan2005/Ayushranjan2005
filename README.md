@@ -1,16 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/murtaza-p">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <h1>
-    Hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Ayush Ranjan, pleased to meet you!
-  </h1>
-</div>
+<h2> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=33&duration=4000&lines=Hi+There!+Welcome+to+my+github+Profile;+I'm+Ayush+,+an+Aspiring+Software+Developer;"/> </h2>
 
 ---
 
@@ -23,10 +11,14 @@ I am a Full Stack Developer & Problem Solver <img src="https://media.giphy.com/m
 - :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
 - :mailbox: How to reach me: (www.linkedin.com/in/ayush-ranjan-51a93b234)
+  
+- ☎️ How to Contact me  : **<a href="https://twitter.com/ayushtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/ayush-ranjan-51a93b234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkidin" height="30" width="40" /></a>
+  <a href="https://instagram.com/_.ayushydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ayushleetcode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>**
 
 ---
 
-### :hammer_and_wrench: Some Tools I Have Used and Learned :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
