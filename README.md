@@ -1,24 +1,55 @@
-# Hi there! 👋 I'm Ayush Ranjan
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ahVlmHJzTMxygUxUou/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/murtaza-p">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <h1>
+    Hello there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Ayush Ranjan, pleased to meet you!
+  </h1>
+</div>
 
-Welcome to my GitHub profile! Here, you'll find my projects, contributions, and experiments with different technologies. Feel free to explore and reach out if you have any questions or suggestions!
+---
 
-## 🚀 About Me
-I'm a passionate developer who loves coding, problem-solving, and building exciting projects. I enjoy learning new technologies and continuously improving my skills.
+### :man_technologist: About Me :
+I am a Full Stack Developer & Problem Solver <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳.
 
-## 🔧 Technologies & Tools
-- Programming Languages:
-- Frameworks & Libraries:
-- Tools & Platforms:
+- 🔧 Software developer with a love for building and creating 
+- 🚀 Currently working for HackerRank on building its backend
+- :zap: One of my recent software projects, Reminder Bot, has gained popularity with over 25,000 active users 💙
+- :telescope: In my spare time, I enjoy taking on new projects or spending time with friends and family
 
-## 📌 Featured Projects
-Here are some of my notable projects:
-- *Project 1* - Short description
-- *Project 2* - Short description
-- *Project 3* - Short description
+- :mailbox: How to reach me: (www.linkedin.com/in/ayush-ranjan-51a93b234)
 
-## 📫 Get in Touch
-- Email: [ayushranjan9434@gmail.com]
-- LinkedIn: [your-linkedin-profile]
-- Twitter: [your-twitter-handle]
+---
 
-Thanks for stopping by! 😊
+### :hammer_and_wrench: Some Tools I Have Used and Learned :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GoLang" alt="GoLang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+
+Watch a snake-eating🐍 my contribution graph on Github
+![Snake animation](https://github.com/murtaza98/murtaza98/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+</div> 
